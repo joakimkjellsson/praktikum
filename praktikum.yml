@@ -1,0 +1,19 @@
+name: praktikum
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3 
+  - dask 
+  - distributed 
+  - git 
+  - git-lfs 
+  - ipython 
+  - matplotlib=3.2 
+  - numpy 
+  - pandas 
+  - seaborn 
+  - xarray 
+  - ipykernel
+  - jupyterlab 
+  - nb_conda_kernels

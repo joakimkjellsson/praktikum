@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+notebooks/dask-worker-space/
+.DS_Store
+*~
